@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+### All the humanity, I want to disappear into obscurity.
 Use the left arrow to go back!
